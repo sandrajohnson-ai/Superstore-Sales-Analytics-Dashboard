@@ -1,0 +1,13 @@
+Final Summary Report
+====================
+Total records analyzed: 51,290.
+Total columns in the dataset: 21.
+The dataset contains no missing values.
+The Sales column was cleaned and converted to numeric format for analysis.
+The Technology and Furniture categories generated high sales.
+APAC and US markets contributed significantly to total sales.
+Monthly sales analysis showed that sales vary across different months, with some months performing better than others.
+The pivot table provided a summary of sales by category and market.
+Correlation analysis showed a strong positive relationship (0.768) between Sales and Shipping Cost.
+There is a negative relationship (-0.316) between Discount and Profit, indicating that higher discounts generally reduce profit.
+This analysis demonstrates the use of Pandas for data cleaning, filtering, grouping, aggregation, pivot tables, and business insights.
